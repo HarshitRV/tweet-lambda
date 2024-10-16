@@ -84,7 +84,7 @@ The Lambda function is triggered via API Gateway. It generates a tweet using the
 ### Example Request
 
 ```sh
-curl -X POST https://<api-id>.execute-api.<region>.amazonaws.com/dev/tweet
+curl -X GET https://<api-id>.execute-api.<region>.amazonaws.com/dev/tweet
 ```
 
 ### Example Response
