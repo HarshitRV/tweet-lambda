@@ -1,0 +1,6 @@
+/env
+/playground
+/node_modules
+/.serverless
+
+serverless.yml
